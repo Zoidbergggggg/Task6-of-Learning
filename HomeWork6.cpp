@@ -29,7 +29,7 @@ int main()
 	std::cin >> num2;
 
 	char op;
-	std::cout << "Please, chose operation (+,/,-,*) \n";
+	std::cout << "Please, choose operation (+,/,-,*) \n";
 	std::cin >> op;
 	double result = 0;
 
